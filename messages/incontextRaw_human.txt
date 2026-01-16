@@ -1,0 +1,5 @@
+# Fault Detection:
+Do fault detection based on the following signal:
+
+{input}
+
