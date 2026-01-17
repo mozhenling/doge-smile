@@ -1,9 +1,0 @@
-# Sample generation:
-Now, generate a new sample given the following information:
-
-{info}.
-
-# Output requirement:
-Respond only with a JSON dictionary where each key is a feature name that maps to a dictionary with 'value' and 'threshold', both being floats. Wrap the final result in <json>...</json> tags.
-
-
