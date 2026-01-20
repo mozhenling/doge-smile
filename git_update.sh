@@ -4,7 +4,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'add link; be concise'
+git commit . -m 'add examples'
 
 git push origin master
 
